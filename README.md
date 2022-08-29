@@ -1,9 +1,9 @@
 ### Oi! Sou Alexandre Koch Teodoreto
 
-- Atualmente estou estudando: Docker e MySql
+- Atualmente estou estudando: MongoDB
 - Pronomes: ele/dele
 - Contatos: 
-  - Email: alekteodoreto@hotmail.com
+  - Email: dev.aleteodoreto@hotmail.com
   - Linkedin: https://www.linkedin.com/in/alexandre-teodoreto/
 
 <div>
