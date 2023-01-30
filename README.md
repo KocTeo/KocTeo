@@ -1,7 +1,5 @@
 ### Oi! Sou Alexandre Koch Teodoreto
 
-- Atualmente estou estudando: MongoDB
-- Pronomes: ele/dele
 - Contatos: 
   - Email: dev.aleteodoreto@hotmail.com
   - Linkedin: https://www.linkedin.com/in/alexandre-teodoreto/
